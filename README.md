@@ -1,2 +1,2 @@
 # steventang.tk
-[steventang.tk] personal website source code.
+https://steventang.tk personal website source code.

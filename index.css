@@ -1,0 +1,55 @@
+:root {
+    --mdc-theme-primary: #fff;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    font-family: Nunito, sans-serif;
+    background: url('/assets/header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+}
+
+a {
+    text-decoration: none
+}
+
+a.material-icons {
+    padding: 12px;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+
+.material-icons svg {
+    height: 24px;
+    width: 24px;
+    fill: #fff;
+}
+
+.title {
+    font-size: 3.5rem;
+    font-weight: 300;
+    margin: 0;
+}
+
+.headline {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin: 0;
+}
+
+.mdc-card {
+    padding: 16px;
+    color: #000;
+    text-align: center;
+}

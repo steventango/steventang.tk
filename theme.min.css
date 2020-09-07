@@ -1,0 +1,13 @@
+:root {
+  --mdc-theme-primary: #000;
+  --mdc-theme-secondary: #29b344;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
